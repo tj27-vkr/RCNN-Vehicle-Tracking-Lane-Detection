@@ -20,3 +20,7 @@ Final combined output:
 <img src="./input/test6.jpg" width = "420" height = "250" align=center />  <img src="./output/output.png" width = "420" height = "250" align=center />
 
 Download the pretrained weights [here](https://drive.google.com/open?id=1dNi9Ny1h9KBMj_3mocMQNapeEwgeERlz) and place it in the current working directory. Run main.py specifying the input image path. It can be applied with video files using moviepy and calling process_video() function.
+
+Final Video:
+
+<img src="./output/output.gif" width = "420" height = "250" align=center />
