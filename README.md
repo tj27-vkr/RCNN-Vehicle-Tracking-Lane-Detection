@@ -9,8 +9,8 @@ Result image frames:
 
 Mask R-CNN output on a road scene:
 
-[](./output/output_1.png)
+<img src="./output/output_1.png" width = "420" height = "250" align=center />
 
 Land Identification output:
 
-[](./output/output_lane.png)
+<img src="./input/test2.jpg" width = "420" height = "250" align=center />  <img src="./output/output_lane.png" width = "420" height = "250" align=center />
