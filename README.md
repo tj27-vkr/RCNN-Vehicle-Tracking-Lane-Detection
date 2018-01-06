@@ -16,4 +16,5 @@ Land Identification output:
 <img src="./input/test2.jpg" width = "420" height = "250" align=center />  <img src="./output/output_lane.png" width = "420" height = "250" align=center />
 
 Final combined output:
+
 <img src="./input/test6.jpg" width = "420" height = "250" align=center />  <img src="./output/output.png" width = "420" height = "250" align=center />
