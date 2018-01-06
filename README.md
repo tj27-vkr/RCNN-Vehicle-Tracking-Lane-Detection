@@ -21,6 +21,6 @@ Final combined output:
 
 Download the pretrained weights [here](https://drive.google.com/open?id=1dNi9Ny1h9KBMj_3mocMQNapeEwgeERlz) and place it in the current working directory. Run main.py specifying the input image path. It can be applied with video files using moviepy and calling process_video() function.
 
-Final Video:
+Final Video GIF:
 
-![](https://github.com/tj27-vkr/RCNN-Vehicle-Tracking-Lane-Detection/raw/master/output/output.gif)
+![](https://github.com/tj27-vkr/RCNN-Vehicle-Tracking-Lane-Detection/blob/master/output/ouput.gif)
